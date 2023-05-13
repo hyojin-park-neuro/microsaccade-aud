@@ -3,4 +3,4 @@
 We are investigating the relationship between oculomotor activity, particularly, revealed by microsaccades and auditory speech attention.
 
 Individual example
-![ex](images/ms_aud_1.png.jpg "A cute cat")
+![ex](images/ms_aud_1.png "A cute cat")
