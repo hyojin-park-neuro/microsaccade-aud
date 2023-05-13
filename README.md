@@ -1,1 +1,2 @@
-# neureca_project1
+# neureca-project-001
+
