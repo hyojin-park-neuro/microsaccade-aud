@@ -1,5 +1,5 @@
 # Microsaccade and Auditory attention
-### More coming up!
+### Project in progress
 We are investigating the relationship between oculomotor activity, particularly, revealed by microsaccades and auditory speech attention. <br>
 
 *Pilot data during attention to left*
