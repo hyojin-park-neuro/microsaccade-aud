@@ -3,4 +3,4 @@
 We are investigating the relationship between oculomotor activity, particularly, revealed by microsaccades and auditory speech attention. <br>
 
 *Pilot data during attention to left*
-![pic](images/ms_aud_1.jpg "pilot result")
+<img src="images/ms_aud_1.jpg" alt="pilot result" width="300" height="200">
